@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" Vritten by Vladimir Rainish"""
 
 from sortedcontainers import SortedDict
 import PrintDS as p

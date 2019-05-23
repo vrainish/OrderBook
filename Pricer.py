@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+""" Vritten by Vladimir Rainish"""
 
 import PrintDS as p
 #import Stat as s

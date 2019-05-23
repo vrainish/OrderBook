@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+""" Vritten by Vladimir Rainish"""
+
 def s(*argv, **kargv):
     print("  STAT ", *argv, **kargv)
 
